@@ -45,6 +45,6 @@ Welcome to the official portfolio repository for **SOBIT Service Center Private 
 Clone this repository to explore the different projects developed for SOBIT Service Center.
 
 ```bash
-it clone https://github.com/vipindagar7/sobit-service-center-portfolio.git
+git clone https://github.com/vipindagar7/sobit-service-center-portfolio.git
 cd sobit-service-center-portfolio
 ```
